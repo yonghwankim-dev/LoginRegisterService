@@ -1,0 +1,24 @@
+<%@ page language="java" contentType="text/html; charset=EUC-KR"
+    pageEncoding="UTF-8"%>
+    <%@ page import="java.sql.*" %>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Database SQL</title>
+</head>
+<body>
+	<%
+		Connection conn = null;
+		try{
+			String url = "jdbc:oracle:thin:@localhost:1521:XE";
+			String user = "hr";
+			String password = "hr";
+		}catch(SQLException ex){
+			
+		}finally{
+			
+		}
+	%>
+</body>
+</html>

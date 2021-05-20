@@ -36,3 +36,17 @@
 0:0:0:0:0:0:0:1 - - [20/May/2021:08:52:23 +0900] "GET /LoginRegister/register HTTP/1.1" 200 854
 0:0:0:0:0:0:0:1 - - [20/May/2021:08:52:24 +0900] "GET /LoginRegister/css/register/register.css HTTP/1.1" 200 1041
 0:0:0:0:0:0:0:1 - - [20/May/2021:08:52:29 +0900] "POST /LoginRegister/register HTTP/1.1" 500 322
+127.0.0.1 - - [20/May/2021:09:15:19 +0900] "GET / HTTP/1.1" 404 807
+0:0:0:0:0:0:0:1 - - [20/May/2021:09:15:20 +0900] "GET /LoginRegister/servlet/web.controller.WebMoveController HTTP/1.1" 404 869
+0:0:0:0:0:0:0:1 - - [20/May/2021:09:15:29 +0900] "GET /LoginRegister/index HTTP/1.1" 200 322
+0:0:0:0:0:0:0:1 - - [20/May/2021:09:15:29 +0900] "GET /LoginRegister/css/index.css HTTP/1.1" 200 91
+0:0:0:0:0:0:0:1 - - [20/May/2021:09:16:24 +0900] "GET /LoginRegister/login HTTP/1.1" 200 678
+0:0:0:0:0:0:0:1 - - [20/May/2021:09:16:24 +0900] "GET /LoginRegister/css/login/login.css HTTP/1.1" 200 1041
+0:0:0:0:0:0:0:1 - - [20/May/2021:09:17:48 +0900] "GET /LoginRegister/index HTTP/1.1" 200 322
+0:0:0:0:0:0:0:1 - - [20/May/2021:09:17:49 +0900] "GET /LoginRegister/register HTTP/1.1" 200 854
+0:0:0:0:0:0:0:1 - - [20/May/2021:09:17:49 +0900] "GET /LoginRegister/css/register/register.css HTTP/1.1" 200 1041
+0:0:0:0:0:0:0:1 - - [20/May/2021:09:24:31 +0900] "GET /LoginRegister/index HTTP/1.1" 200 322
+0:0:0:0:0:0:0:1 - - [20/May/2021:09:24:31 +0900] "GET /LoginRegister/css/index.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [20/May/2021:09:24:32 +0900] "GET /LoginRegister/login HTTP/1.1" 200 678
+0:0:0:0:0:0:0:1 - - [20/May/2021:09:25:03 +0900] "GET /LoginRegister/index HTTP/1.1" 200 322
+0:0:0:0:0:0:0:1 - - [20/May/2021:09:25:03 +0900] "GET /LoginRegister/register HTTP/1.1" 200 854
